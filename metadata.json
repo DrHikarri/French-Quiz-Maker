@@ -1,0 +1,7 @@
+{
+  "name": "Hikari French Practice",
+  "description": "A gamified, local-first French practice app. Create custom image-based speech quizzes, earn XP, and track your accent accuracy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
